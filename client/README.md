@@ -1,4 +1,7 @@
-# client
+# Kanban-WS
+
+### [Demo](https://kanban-ws.firebaseapp.com)
+
 
 ## Project setup
 ```
